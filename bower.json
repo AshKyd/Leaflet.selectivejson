@@ -1,0 +1,24 @@
+{
+  "name": "Leaflet.selectivejson",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AshKyd/Leaflet.selectivejson",
+  "authors": [
+    "Ash Kyd <ash@kyd.com.au>"
+  ],
+  "description": "Selectively display points from a GeoJSON file on a Leaflet map",
+  "main": "leaflet.selectivejson.js",
+  "keywords": [
+    "leaflet",
+    "map",
+    "points",
+    "geojson"
+  ],
+  "license": "BSD-2-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
