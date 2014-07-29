@@ -1,6 +1,6 @@
 {
   "name": "Leaflet.selectivejson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Selectively display points from a GeoJSON file on a Leaflet map",
   "main": "leaflet.selectivejson.js",
   "scripts": {
